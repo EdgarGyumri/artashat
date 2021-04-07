@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/artashat/static/css/main.4155dc3a.chunk.css",
+    "main.js": "/artashat/static/js/main.b6552c0d.chunk.js",
+    "main.js.map": "/artashat/static/js/main.b6552c0d.chunk.js.map",
+    "runtime-main.js": "/artashat/static/js/runtime-main.4acc0db0.js",
+    "runtime-main.js.map": "/artashat/static/js/runtime-main.4acc0db0.js.map",
+    "static/css/2.4ce9e501.chunk.css": "/artashat/static/css/2.4ce9e501.chunk.css",
+    "static/js/2.8f504e23.chunk.js": "/artashat/static/js/2.8f504e23.chunk.js",
+    "static/js/2.8f504e23.chunk.js.map": "/artashat/static/js/2.8f504e23.chunk.js.map",
+    "static/js/3.b963cdc5.chunk.js": "/artashat/static/js/3.b963cdc5.chunk.js",
+    "static/js/3.b963cdc5.chunk.js.map": "/artashat/static/js/3.b963cdc5.chunk.js.map",
+    "index.html": "/artashat/index.html",
+    "static/css/2.4ce9e501.chunk.css.map": "/artashat/static/css/2.4ce9e501.chunk.css.map",
+    "static/css/main.4155dc3a.chunk.css.map": "/artashat/static/css/main.4155dc3a.chunk.css.map",
+    "static/js/2.8f504e23.chunk.js.LICENSE.txt": "/artashat/static/js/2.8f504e23.chunk.js.LICENSE.txt",
+    "static/media/error-page.css": "/artashat/static/media/sitemap.246a9e5b.svg",
+    "static/media/news.css": "/artashat/static/media/twitter.077b1b9c.svg",
+    "static/media/announcements.css": "/artashat/static/media/calendar.94806904.svg",
+    "static/media/events.css": "/artashat/static/media/map-icon.cdf46cd9.svg",
+    "static/media/contact-us.css": "/artashat/static/media/phone-icon.0840fe35.svg",
+    "static/media/homepage.css": "/artashat/static/media/homepage-map.e3f9e319.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4acc0db0.js",
+    "static/css/2.4ce9e501.chunk.css",
+    "static/js/2.8f504e23.chunk.js",
+    "static/css/main.4155dc3a.chunk.css",
+    "static/js/main.b6552c0d.chunk.js"
+  ]
+}
